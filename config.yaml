@@ -1,0 +1,73 @@
+baseURL: https://recipe.r15cookie.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Miller Recipes
+theme: r15-papercss-hugo-theme
+copyright: "Steve Miller [BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)"
+#googleAnalytics: UA-123456789-1
+#disqusShortname: yourdiscussshortname
+
+privacy:
+  disqus:
+    disable: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+# To disable, set to an extremely large value, such as 999999
+paginate: 5
+
+params:
+  homeMetaContent: A Recipe Site for the Miller's
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  navTitleLink: /
+
+menu:
+  nav:
+    - name: Main
+      url: https://r15cookie.com
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 2
+    - name: Recipe
+      url: /recipe/
+      weight: 3
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2

@@ -13,6 +13,7 @@ build: .bin/hugo   ## Build the site
 
 new: .bin/hugo  ## New hugo site - only used once
 	@.bin/hugo new site . --force --format yaml
+	@find . -maxdepth 1 -type d -not -name '.*' | while read dir; do touch ${dir}/.gitkeep; done
 
 .bin/hugo:
 	@mkdir .bin || true
