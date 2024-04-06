@@ -8,8 +8,7 @@ servings: 4
 prep_time: 10
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: 15#in minutes or hours, can be BLANK
-calories: #in kcal, can be BLANK
+cook_time: 15 #in minutes or hours, can be BLANK
 ---
 
 ## Ingredients

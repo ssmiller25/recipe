@@ -1,5 +1,5 @@
 ---
-title: "Hummus & ucumber Salad Pita Pockets"
+title: "Hummus and Cucumber Salad Pita Pockets"
 date: 2023-07-13
 tags: 
   - lunch
