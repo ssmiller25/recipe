@@ -27,10 +27,11 @@ Great to add random vegetables too
 Prep
 
 
-1. Peel and cut the shallots into thin slices.  Can be done up to 5 days in advance if kept in the fridge in a sealed plastic bag or airtight container.
-1. Slice any other veggies you may be tossing in this dish.
-1. Cook
-1. 
+- Peel and cut the shallots into thin slices.  Can be done up to 5 days in advance if kept in the fridge in a sealed plastic bag or airtight container.
+- Slice any other veggies you may be tossing in this dish.
+
+## Cook
+
 1. Set oven to "broil"”" function. ("Grill" in Europe. If there is no broil or grill function, put it to the highest setting 500 F / 260 C).
 1. Heat olive oil in skillet over medium heat.
 1. Add shallots and stir occasionally until soft, about 1-2 minutes.
@@ -42,7 +43,7 @@ Prep
 1. Remove from oven and let cool.  Slice up into slices and serve. Or store in airtight container for up to 3-4 days.  Perfect for breakfast, lunch, or dinner with a side of mixed salad greens!
 
 
-Variation Ideas
+## Variation Ideas
 - Add any other raw vegetables and cook until tender before adding the egg mixture: sliced bell peppers, zucchini (courgettes), tomatoes, asparagus, leeks, fennel, squash
 - Add leftover-precooked vegetables like potatoes or kale and heat through before adding the egg mixture
 - Add chopped fresh herbs or grated cheese to the egg mixture before pouring over veggies
