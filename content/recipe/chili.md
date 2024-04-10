@@ -52,7 +52,7 @@ TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chil
 
 ## Portion
 
-8 zo/2 servings
+10 oz/2 servings
 
 ## Source/Story
 
