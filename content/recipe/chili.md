@@ -50,6 +50,9 @@ TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chil
 1. Turn heat to low and let it simmer, meaning it's barely bubbling, for 1-2 hours to let the flavors meld. The longer it simmers, the deeper the flavors. 
 1. Take off heat and serve or divide up into individual containers (only fill them 80% of the way) and store in the refrigerator until you're ready to enjoy.  If you want them to last longer than 4 days, move to the freezer only after they have cooled down in the refrigerator. Hot food in the freezer is what creates slow, uneven freezing and creates those gross ice crystals on your food! (See [How to Freeze and Reheat Food](http://fitelligentfood.iwtstudents.com/how-to-freeze-meals) for more.)
 
+## Portion
+
+8 zo/2 servings
 
 ## Source/Story
 
