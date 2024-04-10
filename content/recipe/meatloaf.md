@@ -17,7 +17,7 @@ cook_time: 35 #in minutes or hours, can be BLANK
 - 12 oz Potatoes
 - 9 oz Carrots
 - 1/4 Cup Panko Breadcrumbs
-- 1 Beef Stock Concentrate (about 1 oz?)
+- 1 Tbsp Beef Stock Concentrate
 - 10 oz Ground Beef
 - 1/2 cup Cheddar Cheese
 - 2 Tbsp Katchup
