@@ -17,6 +17,82 @@ TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chil
 
 ## Ingredients
 
+
+- 1 Long Green Pepper
+- 1 clove Garlic
+- 2 Stalks Scallions
+- 2 lb Ground Beef
+- 1 tablespoon Southwest Spice Blend
+  - 4 parts Garlic Powder
+  - 2 parts Cumin
+  - 2 parts Chili Powder
+- 1 tablespoon Mexican Spice Blend
+  - 2 Parts Chili Powder
+  - 1 Part Oregano
+  - 1 Part Smoked Paprika
+  - 1 Part Cumin
+- 1.5 oz Tomato Paste
+- 2 oz Beef Stock Concentrate
+- 26 oz Black Beans
+- 14 oz Crushed Tomatoes
+- 1 tomato
+- 4 tablespoon Smoky Red Pepper Crema (See Below)
+- 1/2 cup Cheddar Cheese 
+
+## Prep
+
+- Wash and dry produce.
+- Halve, core, and dice green pepper into ½-inch pieces.
+Peel and mince or grate garlic. Trim and thinly slice
+scallions, separating whites from greens. Place scallion
+greens in a small bowl and cover with plastic wrap;
+refrigerate until ready to serve.
+
+## Instructions
+
+1. Start Chili
+    - Put a large saute pan over medium-high heat and add a large drizzle of oil. Once oil is hot, add beef, green pepper, garlic, scallion whites, Southwest Spic Blend, Mexican Spice Blend, and a big pinch of salt and pepper. Cook, breaking meat up into pieces, until browned and mostly cooked through, 3-5 minutes.
+    - Drain excess greese from the ground beef mixture.
+    - Stir in tomato paste and cook until slightly darkened, 1-2 minutes. 
+    - Transfer contents to slow cooke
+
+2. Finish Chili
+    - Stir in stock concentrates, beans and their liquid, and crushed tomatoes. Cover and increase heat to high; cook until tomatoes break down, beef is cooked through, and flavors meld, 4-6 hours.
+    - Taste and season with salt and pepper.
+
+3. Finish Prep and Serve
+    - Once chili is ready to serve, dice tomato into 1/2-inch pieces. 
+    - Serve chili, scallion greens, tomato, red pepper crema, and cheddar family style and let everyone build their own chili bowl!
+
+## Smoke Red Pepper Crema
+
+### Ingredients
+
+2 Large Red Bell Peppers
+3 cloves Garlic
+1/2 cup Mayo
+1/2 cup Sour Cream
+1/2 Lemon (Juice of)
+1 teaspoon Smoked Paprika
+1/2 teaspoon papriika
+2 tablespoons sundried tomatoes
+
+### Directions
+
+1. Coat your peppers in olive oil and bake them for 40 minutes at 357F.
+1. Once done, place them in a bowl and cover with plastic wrap until they cool. Approximately 10 minutes.
+1. Remove charred skin, stems, core, and seeds, and slice the peppers into strips. Lightly blot any excess moisture with a paper towel.
+1. Put the red pepper strips into a food processor with sour cream, mayo, sundried tomatoes, garlic powder, salt, and smoked paprika, then blend it all until it reaches your desired consistency.
+1. Top it with additional smoked paprika and sundried tomatoes, serve, and enjoy
+
+### Source
+
+<https://www.corriecooks.com/smoky-red-pepper-crema/#recipe>
+
+## Old Recipe
+
+### Ingredients
+
 - Coconut oil or olive oil, 2 Tbsp
 - Onion, 1 large, diced
 - Garlic, 1 clove, minced  
@@ -31,13 +107,13 @@ TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chil
 - Beef broth or water, 2 14 oz can (or 3.5 cups)
 - Garnish options:  fresh lime, cilantro, avocado, sour cream, jalapenos
 
-## Prep
+### Prep
 
 - Dice Onions
 - Mince Garlic
 
 
-## Instructions
+### Instructions
 
 1. Heat oil in a large pot over medium heat.  
 1. Add the onion and cook, stirring everything 30 seconds or so, until softened, about 5-7 minutes.
@@ -59,6 +135,8 @@ TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chil
 Original was something I wipped together from various sources, as well as experimentation.
 
 11/17/2018 Experiment: Use crock pot for main cooking.  1-6 in Sause Pan, the 7+ in crock pot on high until boil, then low for 2-3 hours (or more…)
+
+[DIY HelloFresh Spice Blends](https://joesdaily.com/food-drink/hellofresh-spice-blends-how-to-make-them/)
 
 ## Notes
 
