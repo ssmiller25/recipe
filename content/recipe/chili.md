@@ -13,8 +13,6 @@ cook_time: #in minutes or hours, can be BLANK
 calories: #in kcal, can be BLANK
 ---
 
-TODO: Need to adjust to more closely integrate proportions from Hello Fresh Chili recipe
-
 ## Ingredients
 
 
