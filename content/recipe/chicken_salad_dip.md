@@ -1,5 +1,5 @@
 ---
-title: "Chicken Nachoes with White Queso"
+title: "Chicken Salad Dip"
 date: 2018-09-27
 tags:
   - dinner
