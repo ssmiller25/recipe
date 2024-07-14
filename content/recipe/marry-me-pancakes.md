@@ -1,6 +1,6 @@
 ---
-title: "Frittata"
-date: 2016-03-31
+title: "Marry Me Pancakes"
+date: 2024-07-13
 tags:
   - breakfast
   - dinner
