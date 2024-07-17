@@ -10,7 +10,7 @@ prep_time: 10
 cook: false # If cooking leave true, if cooling set to false
 ---
 
-A ligtht snack, or great options for some relaxation.
+A ligth snack, or great options for some relaxation.
 
 ## Ingredients
 
