@@ -41,34 +41,34 @@ cook_time: 20
 
 ### Dry ingredients
 
-2 tsp chili powder
-1 tsp cumin
-1 tsp coriander
-1 tsp paprika
-1 tsp oregano
-1 tsp garlic powder
-4 to 5 tsp cocoa powder
-3 tsp sugar
-3 tsp salt
+- 2 tsp chili powder
+- 1 tsp cumin
+- 1 tsp coriander
+- 1 tsp paprika
+- 1 tsp oregano
+- 1 tsp garlic powder
+- 4 to 5 tsp cocoa powder
+- 3 tsp sugar
+- 3 tsp salt
 
 ### Wet ingredients
 
-3 tsp rice vinegar
-3 tsp garlic chili paste
-2 to 3 oz Chipotle chilis ( pureed, I boiled dehydrated ones to soften, strain before blending)
-1 to 2 pureed white onions
-1 full bulb of homemade roasted garlic
-3 to 4 tsp tomato paste
-1 14 oz. Can fire roasted tomatoes
+- 3 tsp rice vinegar
+- 3 tsp garlic chili paste
+- 2 to 3 oz Chipotle chilis ( pureed, I boiled dehydrated ones to soften, strain before blending)
+- 1 to 2 pureed white onions
+- 1 full bulb of homemade roasted garlic
+- 3 to 4 tsp tomato paste
+- 1 14 oz. Can fire roasted tomatoes
 
 ### Directions
 
-Cut off ends of garlic bulb, drizzle in olive oil, wrap in tin foil, and put in oven at 400°F for 30-45 min.
-Place 2-4 oz. Of dried chilis in a small pot just covered in water, bring to a boil, than let simmer until soft. 15 to 20 min.
-Dice onion and place in a food processor or blender. Add soften chilis (drained), and can of fire roasted tomatoes (drained). Blend until smooth.
-Place puree on stove, add the rest of your wet ingredients.
-Add all of the dry ingredients to the pot.
-Bring to a simmer and stir for about 15 minutes, it will become really fragrant. The rest is up to you on how you want to store it!! This turned out amazing for me!
+1. Cut off ends of garlic bulb, drizzle in olive oil, wrap in tin foil, and put in oven at 400°F for 30-45 min.
+2. Place 2-4 oz. Of dried chilis in a small pot just covered in water, bring to a boil, than let simmer until soft. 15 to 20 min.
+3. Dice onion and place in a food processor or blender. Add soften chilis (drained), and can of fire roasted tomatoes (drained). Blend until smooth.
+4. Place puree on stove, add the rest of your wet ingredients.
+5. Add all of the dry ingredients to the pot.
+6. Bring to a simmer and stir for about 15 minutes, it will become really fragrant. The rest is up to you on how you want to store it!! This turned out amazing for me!
 
 ### Best Tips:
 
