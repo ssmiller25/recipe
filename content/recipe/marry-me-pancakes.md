@@ -18,18 +18,18 @@ A fun recipe Sarah sent me.
 ## Ingredients
 
 - Main Batter
-    - 1 egg
-    - 1 1/4 cup milk
-    - 1/4 cup vegetable oil
-    - 1 1/2 cup flour
-    - 2 teaspoons baking power
-    - 1 tablespoon sugar
+  - 1 egg
+  - 1 1/4 cup milk
+  - 1/4 cup vegetable oil
+  - 1 1/2 cup flour
+  - 2 teaspoons baking power
+  - 1 tablespoon sugar
 
 - Cinnamon Sugar
-	- 4 tablespoons soften butter
-	- 1/4 cup sugar
-	- 2 teaspoons cinnomon
-	- 1 tablespoon of the pancake butter from above
+  - 4 tablespoons soften butter
+  - 1/4 cup sugar
+  - 2 teaspoons cinnomon
+  - 1 tablespoon of the pancake butter from above
 
 - Icing
 	- 2 cups of powdered sugar
