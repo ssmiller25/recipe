@@ -3,6 +3,7 @@ title: "Meatloaf"
 date: 2016-08-17
 tags: 
   - dinner
+  - freezer-meal
 layout: recipe
 servings: 4
 prep_time: 10 #in minutes, can be BLANK
