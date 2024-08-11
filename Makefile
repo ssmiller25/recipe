@@ -11,6 +11,12 @@ run: .bin/hugo   ## Run site
 build: .bin/hugo   ## Build the site
 	@.bin/hugo
 
+.phony: newcontent
+# TODO, actually implement base on parameter?
+# hugo new content recipe/kamala-tuna-melt.md
+# OR
+# hugo new content coffee/espresso-cream-honey.md
+
 .phony: new
 new: .bin/hugo  ## New hugo site - only used once
 	@.bin/hugo new site . --force --format yaml

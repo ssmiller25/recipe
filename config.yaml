@@ -40,6 +40,9 @@ menu:
     - name: Recipe
       url: /recipe/
       weight: 3
+    - name: Coffee
+      url: /coffee/
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
