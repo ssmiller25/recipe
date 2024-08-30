@@ -12,7 +12,7 @@ cook_increment: minutes # set to minutes or hours
 cook_time: 2
 ---
 
-Ingredients
+## Ingredients
 
 - 8 tablespoons (1 stick) salted butter
 - 1 cup plus 2 tablespoons creamy peanut butter, divided
@@ -22,7 +22,7 @@ Ingredients
 - Flaky salt, such as Maldon (optional)
 
 
-Instructions
+## Instructions
 
 1. Line the bottom and two opposite sides of an 8x8-inch or 9x9-inch baking pan with a sheet of parchment paper long enough so that it hangs off the sides to form a sling.
 2. Place 1 stick salted butter in a large microwave-safe bowl. Microwave on HIGH until melted, 40 to 60 seconds. Add 1 cup of the creamy peanut butter and stir to combine. Add 2 cups powdered sugar and stir until combined.
