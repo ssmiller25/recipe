@@ -30,6 +30,16 @@ Serving: 1 tablespoon for 2 servings
 - 1 Part Smoked Paprika
 - 1 Part Cumin
 
+## Italian Seasoning Blend
+
+Serving: 1 Tbsp
+
+- 1 part garlic powder
+- 1 part oregano
+- 1 part basil
+- 1 part black pepper
+- 1 part parsley
+
 ## Smoky Red Pepper Crema
 
 ### Ingredients
@@ -51,6 +61,7 @@ Serving: 1 tablespoon for 2 servings
 1. Put the red pepper strips into a food processor with sour cream, mayo, sundried tomatoes, garlic powder, salt, and smoked paprika, then blend it all until it reaches your desired consistency.
 1. Top it with additional smoked paprika and sundried tomatoes, serve, and enjoy
 
-### Source
+## Source
 
-<https://www.corriecooks.com/smoky-red-pepper-crema/#recipe>
+Smoky Red Pepper Crema: <https://www.corriecooks.com/smoky-red-pepper-crema/#recipe>
+Most other spice mixtures: <https://joesdaily.com/food-drink/hellofresh-spice-blends-how-to-make-them/>
