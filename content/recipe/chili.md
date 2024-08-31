@@ -21,14 +21,14 @@ calories: #in kcal, can be BLANK
 - 1 clove Garlic
 - 2 Stalks Scallions
 - 2 lb Ground Beef
-- 1 tablespoon [Southwest Spice Blend](spice_blends)
-- 1 tablespoon [Mexican Spice Blend](spice_blends)
+- 1 tablespoon [Southwest Spice Blend](/recipe/spice_blends)
+- 1 tablespoon [Mexican Spice Blend](/recipe/spice_blends)
 - 1.5 oz Tomato Paste
 - 2 oz Beef Stock Concentrate
 - 26 oz Black Beans
 - 14 oz Crushed Tomatoes
 - 1 tomato
-- 4 tablespoon [Smoky Red Pepper Crema](spice_blends)
+- 4 tablespoon [Smoky Red Pepper Crema](/recipe/spice_blends)
 - 1/2 cup Cheddar Cheese 
 
 ## Prep

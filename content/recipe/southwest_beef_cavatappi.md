@@ -19,7 +19,7 @@ cook_increment: minutes # set to minutes or hours
 - 1/2 Cup Mexican Cheese Blend
 - 2 Scallions 
 - 6 oz. Cavatappi Pasta
-- 1 Tbsp [Southwest Spice Blend](spice_blends) 
+- 1 Tbsp [Southwest Spice Blend](/recipe/spice_blends) 
 - 1.5 oz Tomato Paste
 - 1.5 Tbsp Sour Cream
 - 4 Tbsp Smoky Red Pepper Crema
