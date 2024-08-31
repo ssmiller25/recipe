@@ -21,21 +21,14 @@ calories: #in kcal, can be BLANK
 - 1 clove Garlic
 - 2 Stalks Scallions
 - 2 lb Ground Beef
-- 1 tablespoon Southwest Spice Blend
-  - 4 parts Garlic Powder
-  - 2 parts Cumin
-  - 2 parts Chili Powder
-- 1 tablespoon Mexican Spice Blend
-  - 2 Parts Chili Powder
-  - 1 Part Oregano
-  - 1 Part Smoked Paprika
-  - 1 Part Cumin
+- 1 tablespoon [Southwest Spice Blend](spice_blends)
+- 1 tablespoon [Mexican Spice Blend](spice_blends)
 - 1.5 oz Tomato Paste
 - 2 oz Beef Stock Concentrate
 - 26 oz Black Beans
 - 14 oz Crushed Tomatoes
 - 1 tomato
-- 4 tablespoon Smoky Red Pepper Crema (See Below)
+- 4 tablespoon [Smoky Red Pepper Crema](spice_blends)
 - 1/2 cup Cheddar Cheese 
 
 ## Prep
@@ -63,30 +56,6 @@ refrigerate until ready to serve.
     - Once chili is ready to serve, dice tomato into 1/2-inch pieces. 
     - Serve chili, scallion greens, tomato, red pepper crema, and cheddar family style and let everyone build their own chili bowl!
 
-## Smoke Red Pepper Crema
-
-### Ingredients
-
-2 Large Red Bell Peppers
-3 cloves Garlic
-1/2 cup Mayo
-1/2 cup Sour Cream
-1/2 Lemon (Juice of)
-1 teaspoon Smoked Paprika
-1/2 teaspoon papriika
-2 tablespoons sundried tomatoes
-
-### Directions
-
-1. Coat your peppers in olive oil and bake them for 40 minutes at 357F.
-1. Once done, place them in a bowl and cover with plastic wrap until they cool. Approximately 10 minutes.
-1. Remove charred skin, stems, core, and seeds, and slice the peppers into strips. Lightly blot any excess moisture with a paper towel.
-1. Put the red pepper strips into a food processor with sour cream, mayo, sundried tomatoes, garlic powder, salt, and smoked paprika, then blend it all until it reaches your desired consistency.
-1. Top it with additional smoked paprika and sundried tomatoes, serve, and enjoy
-
-### Source
-
-<https://www.corriecooks.com/smoky-red-pepper-crema/#recipe>
 
 ## Old Recipe
 
