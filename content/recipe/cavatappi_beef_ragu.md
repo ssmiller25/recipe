@@ -1,5 +1,5 @@
 ---
-title: "Cavatappi Beef Ragu
+title: "Cavatappi Beef Ragu"
 date: 2023-09-26
 tags: 
   - dinner
