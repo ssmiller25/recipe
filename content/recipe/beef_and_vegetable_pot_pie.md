@@ -15,15 +15,15 @@ A delicious beef-based pot pie.
 
 ## Ingredients
 
-½ lb ground beef
-½ cup chopped onion
-1 clove garlic, minced
-1½ Tbsp all-purpose flour
-½ Tbsp Montreal steak seasoning
-½ ( 15-oz) pkg frozen mixed vegetables
-1 cup beef broth
-½ cup heavy cream **or** Let's try 1 tablespoon of cornstarch in ½ cup of milk to replace.  [Saw this article that had a few other options too.](https://www.healthline.com/nutrition/heavy-cream-substitutes#section3)
-1 (7.5-oz) pkg buttermilk biscuit mix (Let's try just ½ of this to keep fat down…)
+- 1/2 lb ground beef
+- 1/2 cup chopped onion
+- 1 clove garlic, minced
+- 1 1/2 Tbsp all-purpose flour
+- 1/2 Tbsp Montreal steak seasoning
+- 1/2 ( 15-oz) pkg frozen mixed vegetables
+- 1 cup beef broth
+- 1/2 cup heavy cream **or** Let's try 1 tablespoon of cornstarch in 1/2 cup of milk to replace.  [Saw this article that had a few other options too.](https://www.healthline.com/nutrition/heavy-cream-substitutes#section3)
+- 1 (7.5-oz) pkg buttermilk biscuit mix (Let's try just 1/2 of this to keep fat down…)
 
 
 ## Instructions
