@@ -12,7 +12,7 @@ cook_time: 30
 calories: 183
 ---
 
-Ingredients
+## Ingredients
 
 - 1/2 cup butter
 - 1 cup white sugar 
@@ -30,7 +30,7 @@ Ingredients
 - 1 cup confectioners' sugar
 
 
-Instructions
+## Instructions
 
 1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.
 1. In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.
