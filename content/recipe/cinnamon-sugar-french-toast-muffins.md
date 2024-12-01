@@ -66,4 +66,3 @@ calories: #in kcal, can be BLANK
 Sarah [saw on Facebook](https://www.facebook.com/photo.php?fbid=516085938077567&set=a.391850150501147&type=3&mibextid=WC7FNe&rdid=FuZBC0eOTAaaGUJp&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19EdWsmr62%2F%3Fmibextid%3DWC7FNe) 2024-11-30
 
 ## Notes
-
