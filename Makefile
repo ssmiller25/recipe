@@ -16,9 +16,11 @@ build: .bin/hugo   ## Build the site
 # hugo new content recipe/kamala-tuna-melt.md
 # OR
 # hugo new content coffee/espresso-cream-honey.md
+# and can auto-open in codespaces with
+# `code <filename>`
 
-.phony: new
-new: .bin/hugo  ## New hugo site - only used once
+.phony: newsite
+newsite: .bin/hugo  ## New hugo site - only used once
 	@.bin/hugo new site . --force --format yaml
 	@find . -maxdepth 1 -type d -not -name '.*' | while read dir; do touch $${dir}/.gitkeep; done
 
