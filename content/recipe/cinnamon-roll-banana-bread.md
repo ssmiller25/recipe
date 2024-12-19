@@ -6,11 +6,10 @@ tags:
    - to-try
 layout: recipe
 servings: 4
-prep_time: #in minutes, can be BLANK
+prep_time: 15 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: #in minutes or hours, can be BLANK
-calories: #in kcal, can be BLANK
+cook_time: 60 #in minutes or hours, can be BLANK
 ---
 
 ## Ingredients
@@ -43,13 +42,13 @@ calories: #in kcal, can be BLANK
 
 ## Instructions
 
-### Cinnamon Roll Banana Bread
-
 1. Prehead oven to 375. Greese a metal loaf pan with non stick spray
-2. In large mixing bowl, use a fork or potato masher to mash the bananas. Add butter, maple syrup, milk, vanilla, cinnamon, baking powder and surgar, and salt. Add the flour and oats and mix until a batter forms.
-
-### Cinnamon Swirl
-
+2. In large mixing bowl, use a fork or potato masher to mash the bananas. Add butter, maple syrup, milk, vanilla, cinnamon, baking powder and sugar, and salt. Add the flour and oats and mix until a batter forms.
+3. Transfer the batter to the greased loaf pan.
+4. In a small, separate bowl, make the cinnamon swirl by mixing the melted butter, brown sugar, and cinnamon together. Drizzle the cinnamon swirl over the top of the banana bread batter and then use a spoon to gently fold it in to create a swirl effect.
+5. Bake the cinnamon role banana bread in the oven for 55-60 minutes or until it is golden brown.
+6. While the bread bakes, use a whisk to mix the melted butter, powdered sugar, and cream cheese to make the cream cheese frosting.
+7. Drizzle the frosting over the loaf once it has cooled for a couple of minutes and enjoy while still warm.
 
 ## Source/Story
 
