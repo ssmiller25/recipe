@@ -14,20 +14,22 @@ cook: true # If cooking leave true, if cooling set to false
 
 Crack Chicken Tenders 😋
 
-Ingredients:
-1 lb chicken tenders
-½ cup mayonnaise
-½ cup grated Parmesan cheese
-1 packet Ranch seasoning mix
-½ tsp garlic powder
-½ tsp onion powder
-1 cup crushed Ritz crackers
+## Ingredients
 
-Instructions:
-Preheat oven to 375°F (190°C).
-Combine mayonnaise, Parmesan, Ranch seasoning, garlic powder, and onion powder.
-Coat chicken tenders in the mayo mixture, then dredge in crushed Ritz crackers.
-Arrange on a baking sheet and bake for 20-25 minutes until golden and cooked through
+- 1 lb chicken tenders
+- 1/2 cup mayonnaise
+- 1/2 cup grated Parmesan cheese
+- 1 packet Ranch seasoning mix
+- 1/2 tsp garlic powder
+- 1/2 tsp onion powder
+- 1 cup crushed Ritz crackers
+
+## Instructions
+
+1. Preheat oven to 375°F (190°C).
+2. Combine mayonnaise, Parmesan, Ranch seasoning, garlic powder, and onion powder.
+3. Coat chicken tenders in the mayo mixture, then dredge in crushed Ritz crackers.
+4. Arrange on a baking sheet and bake for 20-25 minutes until golden and cooked through
 
 ### Source
 
