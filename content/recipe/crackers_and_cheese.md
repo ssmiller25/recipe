@@ -4,6 +4,7 @@ date: 2017-05-02
 tags: 
   - lunch
   - snack
+  - party
 layout: recipe
 servings: 2
 prep_time: 10
