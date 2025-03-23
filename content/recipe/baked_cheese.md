@@ -3,6 +3,7 @@ title: "Baked Cheese"
 date: 2018-10-15
 tags: 
   - side
+  - party
 layout: recipe
 servings: 2
 prep_time: 30 #ROUGH estimate

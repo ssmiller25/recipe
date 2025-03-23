@@ -5,6 +5,7 @@ tags:
    - lunch
    - dinner
    - to-try
+   - party
 layout: recipe
 servings: 4
 prep_time: #in minutes, can be BLANK
