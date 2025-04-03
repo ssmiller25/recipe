@@ -4,7 +4,7 @@ date: 2023-09-26
 tags: 
   - dinner
 layout: recipe
-servings: 4
+servings: 6
 prep_time: 5 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_time: 30
@@ -14,10 +14,10 @@ cook_increment: minutes # set to minutes or hours
 
 - 1 Carrot
 - 1/4 oz Parsley
-- 6 oz Cavatappi Pasta
+- 6 oz Cavatappi or Penne
 - 1 lb Ground Beef
 - 1 Tbsp [Italian Seasoning](/recipe/spice_blends)
-- 14 oz Marinara Sauce
+- 14 oz Marinara Sauce (or Spaghetti Sauce)
 - 2 Tbsp Cream Cheese
 - 3 Tbsp Parmesan Cheese
 
