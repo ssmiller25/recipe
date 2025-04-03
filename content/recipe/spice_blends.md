@@ -34,11 +34,11 @@ Serving: 1 tablespoon for 2 servings
 
 Serving: 1 Tbsp
 
-- 1 part garlic powder
 - 1 part oregano
 - 1 part basil
-- 1 part black pepper
 - 1 part parsley
+- A sprinkle of black pepper
+- A sprinkle of garlic powder
 
 ## Smoky Red Pepper Crema
 
