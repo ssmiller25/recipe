@@ -15,6 +15,7 @@ cook: false # If cooking leave true, if cooling set to false
 - Tomatoes
 - Basil
 - Balsamic Vinegar
+- Salt
 - Extra Virgin Olive Oil
 - **Opt** Red Onion
 
