@@ -10,18 +10,21 @@ prep_time: 10
 cook: false # If cooking leave true, if cooling set to false
 ---
 
-A ligth snack, or great options for some relaxation.
+A light snack, or great options for some relaxation.
 
 ## Ingredients
 
 - 2 oz cheese (normal 3oz cheese)  Types of Cheese
   - Shredded Cheddar
   - Shredded Provolone
-  - Shredded Mexien Mix
+  - Shredded Mexican Mix
 - Chips - enough to fill a place
 - Sides
   - Salsa
   - Sour cream
+  - Sarah Mix
+    - Salsa - 100g
+    - Sour Cream - 60g
 
 ## Instructions
 
@@ -32,4 +35,4 @@ A ligth snack, or great options for some relaxation.
 
 ## Source
 
-Somthing Sarah and I came up with when we first started dating - thus the long date in the past.
+Something Sarah and I came up with when we first started dating - thus the long date in the past.
