@@ -1,16 +1,16 @@
 ---
 title: "Spaghetti Crepe"
-date: 2024-12-01T12:23:20Z
+date: 2025-05-07
 tags: 
    - breakfast
    - to-try
 layout: recipe
-servings: 12
+servings: 4
 prep_time: 5 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: 12 #in minutes or hours, can be BLANK
-calories: 110 per cookie #in kcal, can be BLANK
+cook_time: 5 #in minutes or hours, can be BLANK
+calories: 
 
 ---
 ## Ingredients
