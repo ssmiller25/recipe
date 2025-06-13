@@ -14,54 +14,42 @@ calories: #in kcal, can be BLANK
 ## Ingredients
 
 For the Base:
-  - 1/2 cup frozen pitaya (dragon fruit) chunks (look for pink dragon fruit for the color)
+  - 1/2 cup frozen pitahaya (dragon fruit) chunks (look for pink dragon fruit for the color)
   - 1/2 cup frozen strawberries
   - 1/2 ripe banana (fresh or frozen)
   - 1/4 ripe avocado
 
 For Sweetness & Creaminess:
-  - 2-3 pitted Medjool dates (start with 2, add more if you prefer sweeter)
+  - 2 pitted Medjool dates (start with 2, add more if you prefer sweeter)
+  - 1/2 tbsp sugar
   - 1 cup unsweetened coconut milk (from a carton, for blending)
 
-Optional Boosts (for similar benefits):
-- 1 scoop collagen peptides (unflavored, any brand) - While the original specifies "Liposomal Collagen Peptide by Rho Nutrition," any unflavored collagen peptide will provide similar protein benefits. Liposomal refers to a delivery method for better absorption, which is hard to replicate at home.
-
-For the "Coconut Beach Swirl" effect (optional, for flavor/presentation):
-- 1-2 tablespoons full-fat canned coconut milk (refrigerated overnight for thick cream to separate) or coconut cream
 
 ## Instructions
 
-Prepare your ingredients:
+**Prepare your ingredients:**
 
+Soak the dates in warm water for 5-10 minutes. Then chop finely.
 If using fresh banana, you can freeze it for a thicker, colder smoothie.
-For the "Coconut Beach Swirl" effect: If you want a thick coconut swirl, refrigerate a can of full-fat coconut milk overnight. The cream will separate and solidify at the top. Scoop out 1-2 tablespoons of this thick cream.
+
 Combine ingredients in blender:
 
-Add the unsweetened coconut milk to your blender first.
-Then add the frozen pitaya, frozen strawberries, banana, avocado, pitted dates, and collagen peptides (if using).
-Blend:
+Add the unsweetened coconut milk and dates to your blender first. Blend them on high for a minute to try to get them completely integrated.
+Then add the frozen pitahaya, frozen strawberries, banana, and avocado.
 
-Blend on high until completely smooth and creamy. If it's too thick, add a splash more coconut milk (a tablespoon at a time) until you reach your desired consistency. If it's too thin, add a few more frozen fruit chunks.
-Assemble (optional "Coconut Beach Swirl"):
+**Blend:**
 
-Pour about half of the smoothie into your serving glass.
-Take the thick coconut cream (from the refrigerated can) and dollop a few spoonfuls into the glass, creating streaks or swirls. You can use a spoon or the back of a knife to gently swirl it up the sides of the glass if desired.
-Pour the remaining smoothie into the glass.
-You can add another dollop of coconut cream on top if you like.
+Blend on high until completely smooth and creamy, about 2-3 minutes. If it's too thick, add a splash more coconut milk (a tablespoon at a time) until you reach your desired consistency. If it's too thin, add a few more frozen fruit chunks.
+
 Serve immediately and enjoy your homemade "Let Me Love You" Smoothie!
 
-Tips & Variations:
+**Tips & Variations:**
 
 Sweetness: Adjust the number of dates to your preference. You can also add a tiny drizzle of maple syrup or agave if you need more sweetness.
 Thickness: For a thicker smoothie bowl consistency, reduce the amount of coconut milk and add more frozen fruit.
 Flavor Boosts: A tiny squeeze of lime juice can brighten the flavors.
-Protein Boost: If you don't have collagen peptides, you could add a scoop of vanilla protein powder for similar benefits.
 Creaminess: The avocado and banana contribute significantly to the creaminess. Don't skip them!
 
 ## Source/Story
 
-Either the source for the recipe, or the family member it came from.  Story related to this recipe certainly appropriate.
-
-## Notes
-
-[^1]: Details
+From our trip to California in 2025. It was a smoothie that Sarah enjoyed immensely. Thanks to Google Gemini for the initial version.
