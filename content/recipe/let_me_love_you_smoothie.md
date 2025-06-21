@@ -15,14 +15,15 @@ calories: #in kcal, can be BLANK
 
 For the Base:
   - 1/2 cup frozen pitaya (dragon fruit) chunks (look for pink dragon fruit for the color)
+    - Or 10oz Pre-frozen dragon fruit smooth pouch kit
   - 1/2 cup frozen strawberries
   - 1/2 ripe banana (fresh or frozen)
   - 1/4 ripe avocado
 
 For Sweetness & Creaminess:
   - 2-3 pitted Medjool dates (start with 2, add more if you prefer sweeter)
-  - 1 cup unsweetened coconut milk (from a carton, for blending)
-
+  - 1 cup unsweetened coconut milk
+  
 Optional Boosts (for similar benefits):
 - 1 scoop collagen peptides (unflavored, any brand) - While the original specifies "Liposomal Collagen Peptide by Rho Nutrition," any unflavored collagen peptide will provide similar protein benefits. Liposomal refers to a delivery method for better absorption, which is hard to replicate at home.
 
@@ -60,8 +61,4 @@ Creaminess: The avocado and banana contribute significantly to the creaminess. D
 
 ## Source/Story
 
-Either the source for the recipe, or the family member it came from.  Story related to this recipe certainly appropriate.
-
-## Notes
-
-[^1]: Details
+From our trip to California on 2025 - a recipe Sarah found on Door Dash that she loved.
