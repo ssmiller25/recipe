@@ -14,7 +14,8 @@ calories: #in kcal, can be BLANK
 ## Ingredients
 
 For the Base:
-  - 1/2 cup frozen pitahaya (dragon fruit) chunks (look for pink dragon fruit for the color)
+  - 1/2 cup frozen pitaya (dragon fruit) chunks (look for pink dragon fruit for the color)
+    - Or 10oz Pre-frozen dragon fruit smooth pouch kit
   - 1/2 cup frozen strawberries
   - 1/2 ripe banana (fresh or frozen)
   - 1/4 ripe avocado
@@ -22,7 +23,7 @@ For the Base:
 For Sweetness & Creaminess:
   - 2 pitted Medjool dates (start with 2, add more if you prefer sweeter)
   - 1/2 tbsp sugar
-  - 1 cup unsweetened coconut milk (from a carton, for blending)
+  - 1 cup unsweetened coconut milk
 
 
 ## Instructions
