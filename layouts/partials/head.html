@@ -31,7 +31,7 @@
   {{ $customCssPath := "css/custom.css" }}
   {{ $customCss:= resources.Get $customCssPath | resources.ExecuteAsTemplate $customCssPath . }}
   <link rel="stylesheet" type="text/css" href="{{ $customCss.RelPermalink }}">
-  <script src="{{ "js/search.js" | relURL }}"></script>
+  <script src="{{ "js/search.js" | relURL }}" defer></script>
   {{ if hugo.IsProduction }}
     {{ template "_internal/google_analytics.html" . }}
   {{ end }}
