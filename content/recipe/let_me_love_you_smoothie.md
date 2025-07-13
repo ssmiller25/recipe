@@ -19,7 +19,7 @@ calories: #in kcal, can be BLANK
 - 1/2 cup frozen strawberries
 - 1/2 cup frozen banana 
 - 1/4 ripe avocado
-- 2 pitted Medjool dates (start with 2, add more if you prefer sweeter)
+- 2 pitted Medjool dates (start with 2, add more if you prefer sweeter) - Sarah preferred dates!
 - 1/2 tbsp sugar
 - 1 cup unsweetened coconut milk
 
