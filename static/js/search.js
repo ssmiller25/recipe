@@ -53,6 +53,7 @@ function initSearch() {
       });
     })
     .catch(function(err) {
+      resultsDiv.style.display = 'block';
       resultsDiv.innerHTML = '<p>Error loading search index.</p>';
     });
 }
