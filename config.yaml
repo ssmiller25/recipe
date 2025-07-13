@@ -74,3 +74,15 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
+
+outputFormats:
+  SearchIndex:
+    mediaType: application/json
+    baseName: search
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - SearchIndex
