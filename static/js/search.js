@@ -17,6 +17,8 @@ function initSearch() {
   var searchInput = document.getElementById('searchBox');
   var resultsDiv = document.getElementById('searchResults');
   if (!searchInput || !resultsDiv) return;
+  // Hide results box initially
+  resultsDiv.style.display = 'none';
 
   fetch('/search.json')
     .then(response => response.json())
@@ -32,9 +34,11 @@ function initSearch() {
         var query = searchInput.value.trim();
         if (!query) {
           resultsDiv.innerHTML = '';
+          resultsDiv.style.display = 'none';
           return;
         }
         var results = fuse.search(query);
+        resultsDiv.style.display = 'block';
         if (results.length === 0) {
           resultsDiv.innerHTML = '<p>No results found.</p>';
           return;
