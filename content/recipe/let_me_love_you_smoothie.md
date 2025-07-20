@@ -6,7 +6,7 @@ tags:
    - to-try
 layout: recipe
 servings: 1
-prep_time: 5 #in minutes, can be BLANK
+prep_time: 15 #in minutes, can be BLANK
 cook: false # If cooking leave true, if cooling set to false
 calories: #in kcal, can be BLANK
 ---
