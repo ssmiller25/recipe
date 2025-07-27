@@ -6,12 +6,12 @@ tags:
    - lunch
    - dinner
 layout: recipe
-servings: 4
-prep_time: #in minutes, can be BLANK
+servings: 8
+prep_time: 10 #in minutes, can be BLANK
 cook: true # If cooking leave true, if cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: #in minutes or hours, can be BLANK
-calories: #in kcal, can be BLANK
+cook_time: 45 #in minutes or hours, can be BLANK
+calories: 482 #in kcal, can be BLANK
 ---
 
 ## Ingredients
