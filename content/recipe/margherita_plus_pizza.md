@@ -16,7 +16,7 @@ cook_time: 10
 ## Ingredients
 
 - Pizza Crust
-- Pizza Sauce (whoel pizza)
+- Pizza Sauce (whole pizza)
 - Margherita Side
   - Fresh Basil
   - Fresh Mozzarella 
@@ -25,7 +25,7 @@ cook_time: 10
   - Goat Cheese
   - Mozzarella
   - Bacon
-  - Olive Oil 
+  - Olive Oil
   - Herbs (might experiment)
 
 ## Instructions
