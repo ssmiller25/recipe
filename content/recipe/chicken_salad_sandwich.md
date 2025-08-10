@@ -39,3 +39,5 @@ calories: 350 #in kcal, estimated
 
 An attempt to replicate one of our favorite chicken salad sandwich recipes from a campsite visited by the parents. Fed a basic description into Github Copilot as a basis.
 
+Possible research idea: In "Salt, Fat, Acid, and Heat" book, look for a “bright cabbage slaw” recipe. I really think it’s some sort of acid I’m missing the the ingredients above 
+
