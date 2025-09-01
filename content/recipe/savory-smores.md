@@ -33,7 +33,3 @@ cook_time: 5 #in minutes or hours, can be BLANK
 ## Source/Story
 
 From Rachael on 2025-08-23
-
-## Notes
-
-[^1]: Details
