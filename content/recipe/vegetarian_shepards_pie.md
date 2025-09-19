@@ -38,18 +38,28 @@ A delicious Vegetarian Shepherd’s Pie, inspired by the Suvie cooking device re
 
 ## Instructions
 
-### Vegetable Filling
 
-1. Preheat oven to **400°F**. Heat olive oil in a large skillet over medium heat.
-2. Add shallot, mushrooms, carrots, and cauliflower. Season with 2 tsp salt and pepper. Sauté until mushrooms release their moisture and veggies begin to brown (about 10 minutes).
-3. In a small bowl, whisk cornstarch with 2 tbsp of red wine to create a slurry. Add remaining wine, vegetable stock, tomato paste, and peas; stir to combine.
-4. Pour broth mixture over sautéed vegetables. Cook for 2-3 minutes, stirring, until the liquid thickens and coats the veggies.
+### Pre-prep
+
+1. Preheat oven to **400°F**. 
+2. Mince shallots
+3. Cut up mushrooms, cauliflower, and carrots
+4. Cut and peel potatoes
 
 ### Mashed Potato Topping
+
 
 1. Place potatoes in a pot of salted water and bring to a boil. Simmer until potatoes are tender (10-15 minutes). Drain and return potatoes to the pot.
 2. Add heavy cream, melted butter, garlic, and 1 tsp salt. Mash potatoes until smooth and creamy.
 3. Taste and adjust seasoning as needed.
+
+### Vegetable Filling
+
+1. Heat olive oil in a large skillet over medium heat.
+2. Add shallot, mushrooms, carrots, and cauliflower. Season with 2 tsp salt and pepper. Sauté until mushrooms release their moisture and veggies begin to brown (about 10 minutes).
+3. In a small bowl, whisk cornstarch with 2 tbsp of red wine to create a slurry. Add remaining wine, vegetable stock, tomato paste, and peas; stir to combine.
+4. Pour broth mixture over sautéed vegetables. Cook for 2-3 minutes, stirring, until the liquid thickens and coats the veggies.
+
 
 ### Assemble & Bake
 
