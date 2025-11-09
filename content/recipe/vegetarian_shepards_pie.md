@@ -3,7 +3,6 @@ title: "Vegetarian Shepard's Pie"
 date: 2025-09-01T01:21:49Z
 tags: 
    - dinner
-   - to-try
    - freezer-meal
 layout: recipe
 servings: 8
@@ -19,18 +18,18 @@ A delicious Vegetarian Shepherd’s Pie, inspired by the Suvie cooking device re
 ## Ingredients
 
 - 2 tablespoons olive oil
-- 1 shallot, minced
+- 1 stalk of celery, minced
 - 8 oz fresh mushrooms, sliced
 - 6 oz cauliflower florets
 - 2 carrots, peeled and chopped
 - 3 tsp salt (divided)
 - 1 tsp pepper, or to taste
 - 2 tbsp cornstarch
-- ¼ cup red wine (substitute with extra broth if desired)
-- ½ cup vegetable stock
+- 1/4 cup cranberry juice
+- 1/2 cup vegetable stock (**sub:** Deglase pan after vege saute with 1/2 cup of water and generous pinch of salt)
 - 2 tbsp tomato paste
 - 1 cup frozen peas
-- ½ cup heavy cream
+- 1/2 cup heavy cream
 - 3 tbsp butter, melted
 - 3 garlic cloves, minced
 - 1 lb potatoes, peeled and cut into 1” cubes
@@ -56,8 +55,8 @@ A delicious Vegetarian Shepherd’s Pie, inspired by the Suvie cooking device re
 ### Vegetable Filling
 
 1. Heat olive oil in a large skillet over medium heat.
-2. Add shallot, mushrooms, carrots, and cauliflower. Season with 2 tsp salt and pepper. Sauté until mushrooms release their moisture and veggies begin to brown (about 10 minutes).
-3. In a small bowl, whisk cornstarch with 2 tbsp of red wine to create a slurry. Add remaining wine, vegetable stock, tomato paste, and peas; stir to combine.
+2. Add celery, mushrooms, carrots, and cauliflower. Season with 2 tsp salt and pepper. Sauté until mushrooms release their moisture and veggies begin to brown (about 10 minutes).
+3. In a small bowl, whisk cornstarch with 2 tbsp of cranberry juice to create a slurry. Add remaining wine, vegetable stock, tomato paste, and peas; stir to combine.
 4. Pour broth mixture over sautéed vegetables. Cook for 2-3 minutes, stirring, until the liquid thickens and coats the veggies.
 
 
@@ -69,11 +68,9 @@ A delicious Vegetarian Shepherd’s Pie, inspired by the Suvie cooking device re
 
 ## Tips & Substitutions
 
-- Substitute red wine with extra vegetable stock if desired.
+- Substitute cranberry sauce with red wine if desired.
 - Potato starch can be used in place of cornstarch for thickening (may result in a slightly runnier filling).
 - For extra flavor, add fresh rosemary or thyme during vegetable sauté.
-
-This classic vegetarian shepherd’s pie matches the cozy comfort food style of Suvie recipes, using easy oven and stovetop methods for similar results.
 
 ## Source/Story
 
