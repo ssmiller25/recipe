@@ -2,8 +2,8 @@
 title: "Blueberry Pizza with Goat Cheese & Balsamic"
 date: 2025-11-26T12:00:00Z
 tags:
-   - pizza
-   - vegetarian
+   - dinner
+   - lunch
    - to-try
 layout: recipe
 servings: 8 slices
