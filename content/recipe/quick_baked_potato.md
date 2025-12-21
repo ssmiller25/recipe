@@ -26,7 +26,10 @@ calories: 160
    1. Place the pricked potato on a microwave-safe plate
    2. Microwave on high for 5-10 minutes (depending on size), flipping halfway through
    3. Check for doneness by piercing with a fork - it should slide through easily
-3. Cool and serve
+3. (Optional) Crisp in the air fryer
+   1. Preheat the air fryer to 400°F (200°C)
+   2. Lightly oil the potato skin and air fry for 5-8 minutes until the skin is crisp
+4. Cool and serve
    1. Let the potato cool for 1-2 minutes before handling
    2. Cut open lengthwise and fluff the insides with a fork
    3. Top with desired toppings (see below)
