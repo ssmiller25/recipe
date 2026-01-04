@@ -43,7 +43,7 @@ A decadent grilled cheese that transforms leftover braised short ribs into an in
 
 ## Source/Story
 
-A delicious way to use leftover braised short ribs, inspired by the need to transform a fancy dinner into an amazing sandwich. The thick bread is essential to soak up the rich juices without falling apart.
+A delicious way to use leftover braised short ribs, inspired by the need to transform a fancy dinner into an amazing sandwich. The thick bread is essential to soak up the rich juices without falling apart. Built by Copilot in 2026
 
 ## Notes
 
