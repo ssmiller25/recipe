@@ -13,7 +13,6 @@ calories: #in kcal, can be BLANK
 
 ## Ingredients
 
-
 - 1/2 cup frozen pitaya (dragon fruit) chunks (look for pink dragon fruit for the color)
   - Or 10oz Pre-frozen dragon fruit smooth pouch kit
 - 1/2 cup frozen strawberries
@@ -22,7 +21,6 @@ calories: #in kcal, can be BLANK
 - 2 pitted Medjool dates (start with 2, add more if you prefer sweeter) - Sarah preferred dates!
 - 1/2 tbsp sugar
 - 1 cup unsweetened coconut milk (Thai Kitchen Coconut Milk, unsweetend, preferred)
-
 
 ## Instructions
 
