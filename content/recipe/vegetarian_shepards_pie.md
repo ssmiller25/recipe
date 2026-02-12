@@ -3,7 +3,7 @@ title: "Vegetarian Shepard's Pie"
 date: 2025-09-01T01:21:49Z
 tags: 
    - dinner
-   - freezer-meal
+   - make-ahead
 layout: recipe
 servings: 8
 prep_time: #in minutes, can be BLANK

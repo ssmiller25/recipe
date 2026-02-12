@@ -3,7 +3,7 @@ title: "Southwest Beef Cavatappi"
 date: 2019-09-01
 tags: 
   - dinner
-  - freezer-meal
+    - make-ahead
 layout: recipe
 servings: 4
 prep_time: 10 #in minutes, can be BLANK

@@ -2,7 +2,7 @@
 title: "Tomato Caprese with Fresh Burrata"
 date: 2025-02-28T12:40:01Z
 tags: 
-   - side
+   - sides
 layout: recipe
 servings: 4
 prep_time: 10 #in minutes, can be BLANK

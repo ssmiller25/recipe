@@ -3,7 +3,7 @@ title: "Beef and Vegetable Pot Pie"
 date: 2019-08-24
 tags: 
   - dinner
-  - freezer-meal
+  - make-ahead
 layout: recipe
 servings: 4
 prep_time: 10 #in minutes, can be BLANK

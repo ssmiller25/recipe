@@ -2,7 +2,7 @@
 title: "Eggplant Parmigiana"
 date: 2019-08-26
 tags:
-  - Dinner
+  - dinner
 layout: recipe
 servings: 6
 prep_time:  15 #in minutes, can be BLANK

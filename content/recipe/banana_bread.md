@@ -3,7 +3,7 @@ title: "Banana Bread"
 date: 2016-09-05
 tags:
   - breakfast
-  - side
+  - sides
   - bake
 layout: recipe
 servings: 8

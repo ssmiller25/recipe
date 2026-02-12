@@ -3,7 +3,7 @@ title: "Braised Short Ribs"
 date: 2024-12-29
 tags: 
   - dinner
-  - freezer-meal
+  - make-ahead
   - to-try
 layout: recipe
 servings: 4

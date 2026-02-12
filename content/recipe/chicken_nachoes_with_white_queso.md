@@ -3,7 +3,7 @@ title: "Chicken Nachoes with White Queso"
 date: 2019-05-07
 tags:
   - dinner
-  - side
+  - sides
 layout: recipe
 servings: 2
 prep_time: 30 #ROUGH estimate

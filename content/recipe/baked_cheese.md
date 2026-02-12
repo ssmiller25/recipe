@@ -2,7 +2,7 @@
 title: "Baked Cheese"
 date: 2018-10-15
 tags: 
-  - side
+  - sides
   - party
 layout: recipe
 servings: 2

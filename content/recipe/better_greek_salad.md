@@ -2,7 +2,7 @@
 title: "Greek Horiatiki Salad"
 date: 2024-06-11
 tags:
-  - side
+  - sides
   - to-try
 layout: recipe
 servings: 4

@@ -4,7 +4,7 @@ date: 2017-01-02
 tags: 
   - dinner
   - slow-cook
-  - freezer-meal
+    - make-ahead
 layout: recipe
 servings: 4
 prep_time: #in minutes, can be BLANK

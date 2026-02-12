@@ -2,7 +2,7 @@
 title: "Spice Blends"
 date: 2024-08-31
 tags: 
-  - add-ons
+  - component
 layout: recipe
 servings: 4
 prep_time: #in minutes, can be BLANK

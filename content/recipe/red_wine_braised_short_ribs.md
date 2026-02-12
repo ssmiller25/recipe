@@ -3,7 +3,7 @@ title: Red Wine–Braised Short Ribs
 date: 2025-12-23T14:44:41Z
 tags: 
   - dinner
-  - freezer-meal
+  - make-ahead
   - to-try
 layout: recipe
 servings: 4

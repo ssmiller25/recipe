@@ -4,7 +4,7 @@ date: 2023-09-26
 tags: 
   - dinner
   - to-try
-  - freezer-meal
+    - make-ahead
 layout: recipe
 servings: 4
 prep_time: 5 #in minutes, can be BLANK

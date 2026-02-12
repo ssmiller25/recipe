@@ -2,7 +2,7 @@
 title: "Brucetta With Mozzarella"
 date: 2017-07-24
 tags: 
-  - side  
+  - sides  
 layout: recipe
 servings: 4
 prep_time: 10 #in minutes, can be BLANK
