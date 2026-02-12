@@ -11,4 +11,9 @@ RUN mkdir -p /tmp/hugo && \
     cd / && \
     rm -rf /tmp/hugo
 
+RUN sudo apt-get update && \
+    sudo apt-get install -y python3 && \
+    sudo apt-get clean && \
+    sudo rm -rf /var/lib/apt/lists/*
+
 
