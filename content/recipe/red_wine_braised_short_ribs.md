@@ -17,7 +17,7 @@ calories: #in kcal, can be BLANK
 ## Ingredients
 
 - 1/4 cup pure olive oil
-- 6 pounds meaty beef short ribs on the bone [^1]
+- 6 pounds meaty beef short ribs on the bone. Potentially could replace with other meat cuts, such as Top Sirloin Steak [^1]
 - Salt and freshly ground pepper
 - freshly ground pepper
 - 2 celery ribs, coarsely chopped
@@ -30,7 +30,7 @@ calories: #in kcal, can be BLANK
 - 1 head of garlic, halved crosswise
 - 1 quart chicken stock or canned low-sodium broth
 - 2 cups dry red wine
-- 1/3 cup white vinegar
+- 1/3 cup white vinegar [^4]
 
 ## Instructions
 
@@ -46,5 +46,6 @@ Sarah spotted on [Apple News Recipe](https://apple.news/AWKEpvhFtQ-S-9U3Xmj_kQg)
 ## Notes
 
 [^1]: Pat the ribs dry before seasoning and searing in batches to ensure they brown nicely.
-[^2]: Don't be tempted to skip the anchovies — they'll melt into the dish to add umami without any fishiness.
+[^2]: Don't be tempted to skip the anchovies — they'll melt into the dish to add umami without any fishiness. Potentially replace with Worshishire sauce. 
 [^3]: If making ahead, you can strain the braising liquid as directed in Step 3, then chill the ribs in the sauce, removing the hardened fat before reheating and seasoning to taste.
+[^4]: Do NOT be tempted to use red wine vinegar as a cheat. The vinegar ratio ends up being too high. Need to directly control the ratio of red wine to vinegar directly.
