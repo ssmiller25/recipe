@@ -1,0 +1,4 @@
+# Load repository conventions as read-only context for every Aider session.
+read:
+  - AGENTS.md
+  - CONVENTIONS.md

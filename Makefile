@@ -11,6 +11,16 @@ run: .bin/hugo   ## Run site
 build: .bin/hugo   ## Build the site
 	@.bin/hugo
 
+.phony: smoke-check
+smoke-check: ## Run lightweight repository smoke checks
+	@test -f AGENTS.md
+	@test -f README.md
+	@test -f config.yaml
+	@test -d content/recipe
+	@test -d content/coffee
+	@git status -s >/dev/null
+	@echo "recipe smoke checks passed"
+
 .phony: newcontent
 # TODO, actually implement base on parameter?
 # hugo new content recipe/kamala-tuna-melt.md

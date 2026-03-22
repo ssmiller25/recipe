@@ -23,6 +23,46 @@ Cross-domain inheritance from parent repo:
   4. Horizon alignment notes (H2/H3)
   5. Next concrete action per active domain
 
+## Cross-Agent Interoperability
+
+To keep behavior consistent across Copilot, Copilot CLI, Aider CLI, and other agent tooling, this repo uses one canonical instruction source and thin compatibility wrappers.
+
+- Canonical policy file: `AGENTS.md` (this file)
+- Compatibility files to keep aligned:
+  - `.github/copilot-instructions.md`
+  - `CLAUDE.md`
+  - `CONVENTIONS.md`
+  - `.aider.conf.yml`
+
+Instruction precedence in this repo:
+1. Explicit user prompt in the current session
+2. Nearest `AGENTS.md` to the edited file
+3. This repo `AGENTS.md`
+4. Tool-specific compatibility files
+
+Persona/sub-agent execution protocol:
+1. Select one lead persona before planning.
+2. Add at most one supporting persona, per this repo's compact model.
+3. Declare expected output structure at task start for complex requests.
+4. Run the smallest relevant verification step after edits.
+5. Escalate cross-domain conflicts through the parent handoff protocol.
+
+## Troubleshooting Instruction Loading
+
+If instructions are not being applied as expected, use this quick checklist.
+
+Copilot and VS Code:
+- Confirm `chat.useAgentsMdFile` is enabled.
+- Confirm the nearest `AGENTS.md` and `.github/copilot-instructions.md` are in the opened workspace tree.
+- For nested repo usage, enable `chat.useCustomizationsInParentRepositories` when opening only a subfolder.
+- Use Chat diagnostics to verify which instruction files were loaded.
+
+Aider CLI:
+- Run from the repo root where `.aider.conf.yml` exists.
+- Confirm `.aider.conf.yml` includes `read: [AGENTS.md, CONVENTIONS.md]`.
+- Use `/read AGENTS.md` manually if the file was not auto-loaded.
+- Keep `AGENTS.md` concise and avoid conflicting duplicate rules in multiple files.
+
 ## Repository Scope
 
 Use this repo for:
