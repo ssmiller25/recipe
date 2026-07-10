@@ -3,8 +3,6 @@ title: "Dry Rub Ribs"
 date: 2026-07-10
 tags:
   - dinner
-  - oven
-  - grill
   - make-ahead
 layout: recipe
 servings: 4
