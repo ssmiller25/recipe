@@ -15,6 +15,12 @@ calories:
 
 ## Ingredients
 
+### For Cooking
+
+- 2 racks baby back or St. Louis ribs
+- Thin binder (BBQ sauce or mustard)
+- BBQ sauce or oil for finishing
+
 ### Dry Rub (per 2 racks of baby back or St. Louis ribs)
 
 - 1/4 cup brown sugar
@@ -29,12 +35,6 @@ calories:
 ### Optional Additions
 
 - 1 teaspoon dried oregano or sage (for more complex flavor)
-
-### For Cooking
-
-- 2 racks baby back or St. Louis ribs
-- Thin binder (BBQ sauce or mustard)
-- BBQ sauce or oil for finishing
 
 ## Prep
 
@@ -64,4 +64,4 @@ calories:
 
 ## Source/Story
 
-Simple dry rub and rib method adapted from typical BBQ recipes. Can go either complex rub or very simple; this is a solid, crowd-pleasing dry rub pattern.
+Perplexity for initial recipe, some adjustments to ask about best binder.
