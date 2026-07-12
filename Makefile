@@ -4,12 +4,16 @@ help:           ## Show this help.
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
 
 .phony: run
-run: .bin/hugo   ## Run site
+run: .bin/hugo generate-commits   ## Run site
 	@.bin/hugo serve
 
 .phony: build
-build: .bin/hugo   ## Build the site
+build: .bin/hugo generate-commits   ## Build the site
 	@.bin/hugo
+
+.phony: generate-commits
+generate-commits:   ## Generate commits data for home page
+	uv run scripts/generate-commits-data.py
 
 .phony: smoke-check
 smoke-check: ## Run lightweight repository smoke checks

@@ -20,3 +20,6 @@ hugo.linux
 
 # Temp Binary
 .bin/
+
+# Generated at build time by scripts/generate-commits-data.py
+data/commits.json
