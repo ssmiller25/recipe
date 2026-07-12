@@ -1,4 +1,4 @@
 [submodule "themes/r15-papercss-hugo-theme"]
 	path = themes/r15-papercss-hugo-theme
 	url = https://github.com/ssmiller25/r15-papercss-hugo-theme.git
-	branch = feature/git-commits-support
+	branch = main
