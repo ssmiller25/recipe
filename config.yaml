@@ -88,15 +88,3 @@ outputs:
   home:
     - HTML
     - SearchIndex
-
-outputFormats:
-  SearchIndex:
-    mediaType: application/json
-    baseName: search
-    isPlainText: true
-    notAlternative: true
-
-outputs:
-  home:
-    - HTML
-    - SearchIndex

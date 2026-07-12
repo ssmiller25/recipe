@@ -52,6 +52,11 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Generate commits data
+        run: |
+          python3 scripts/generate-commits-data.py
+          echo "Generated commits data:"
+          head -20 data/commits.json
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
