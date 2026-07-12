@@ -28,6 +28,7 @@ params:
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   navTitleLink: /
+  github_repo: "ssmiller25/recipe"  # Used for commit links (if enabling commits display)
 
 menu:
   nav:
