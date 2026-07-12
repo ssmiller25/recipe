@@ -29,6 +29,7 @@ params:
   dateFormat: Jan 2, 2006
   navTitleLink: /
   github_repo: "ssmiller25/recipe"  # Used for commit links (if enabling commits display)
+  enable_search: true  # Enable search functionality
 
 menu:
   nav:
@@ -75,6 +76,18 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
+
+outputFormats:
+  SearchIndex:
+    mediaType: application/json
+    baseName: search
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - SearchIndex
 
 outputFormats:
   SearchIndex:
