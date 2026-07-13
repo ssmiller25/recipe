@@ -52,6 +52,8 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Fetch display-override notes
+        run: git fetch origin refs/notes/site-display:refs/notes/site-display || echo "No notes ref on origin yet"
       - name: Generate commits data
         run: |
           python3 scripts/generate-commits-data.py

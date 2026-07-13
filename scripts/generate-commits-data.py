@@ -22,8 +22,26 @@ The script will:
 1. Extract git commits (optionally filtered to content/ directory)
 2. Generate data/commits.json with commit details
 3. Map changed files to site URLs for linking
+4. Apply any display-override git notes (see NOTES_REF below) in place of
+   the real commit subject/body, without touching git history
 
-Shared with: https://github.com/ssmiller25/r15cookie-site
+Display overrides via git notes:
+    A commit's displayed heading/body can be corrected after the fact by
+    attaching a note under NOTES_REF, instead of rewriting history:
+
+        git notes --ref=refs/notes/site-display add -m "New heading
+
+        New body text." <commit-hash>
+        git push origin refs/notes/site-display
+
+    Notes aren't fetched by a normal `git fetch`/clone, so pull them
+    explicitly before generating data:
+
+        git fetch origin refs/notes/site-display:refs/notes/site-display
+
+    A commit with no note uses its real subject/body, unchanged.
+
+Based on: https://github.com/ssmiller25/r15cookie-site
 """
 
 import json
@@ -31,6 +49,11 @@ import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
+
+# Notes ref used for display-override annotations. Kept separate from the
+# default refs/notes/commits so this concern doesn't collide with any other
+# use of git notes.
+NOTES_REF = "refs/notes/site-display"
 
 STATUS_MAP = {
     "A": {"label": "Added", "icon": "➕"},
@@ -60,8 +83,36 @@ def run_git_command(args: list[str], cwd: Path = None) -> str:
             print(f"Git error: {e.stderr}", file=sys.stderr)
         sys.exit(1)
 
-def get_commits(limit: int = 100, content_only: bool = True) -> list[dict]:
+def get_note_overrides(notes_ref: str = NOTES_REF) -> dict[str, tuple[str, str]]:
+    """Read display-override notes: commit_hash -> (heading, body).
+
+    Notes are attached with `git notes --ref={notes_ref} add ...` and let a
+    commit's displayed subject/body be corrected without rewriting the
+    commit itself. If a commit has no note, its real subject/body is used.
+    """
+    # Exits 0 with empty output if the ref doesn't exist locally yet, so no
+    # special-casing is needed for a repo/clone with no notes.
+    list_output = run_git_command(["notes", f"--ref={notes_ref}", "list"])
+
+    overrides = {}
+    for line in list_output.split("\n"):
+        if not line.strip():
+            continue
+        parts = line.split()
+        if len(parts) != 2:
+            continue
+        note_blob_sha, commit_sha = parts
+        note_text = run_git_command(["show", note_blob_sha])
+        note_lines = note_text.split("\n")
+        heading = note_lines[0].strip()
+        body = "\n".join(note_lines[1:]).strip()
+        overrides[commit_sha] = (heading, body)
+
+    return overrides
+
+def get_commits(limit: int = 100, content_only: bool = True, note_overrides: dict | None = None) -> list[dict]:
     """Get recent commits with their details."""
+    note_overrides = note_overrides or {}
     format_str = "%H%n%h%n%an%n%ae%n%ai%n%s%n%b%n---COMMIT_SEPARATOR---%n"
     
     # Filter to only commits that touch content/ directory
@@ -90,7 +141,12 @@ def get_commits(limit: int = 100, content_only: bool = True) -> list[dict]:
         author_date = lines[4]
         subject = lines[5]
         body = "\n".join(lines[6:]).strip() if len(lines) > 6 else ""
-        
+
+        # A display-override note fully replaces both heading and body for
+        # this commit; the underlying commit itself is untouched.
+        if full_hash in note_overrides:
+            subject, body = note_overrides[full_hash]
+
         # Get changed files for this commit
         # -M enables rename detection so renames arrive as a single "Rxxx\told\tnew"
         # line instead of being split into a separate Delete + Add.
@@ -200,8 +256,10 @@ def main():
     
     data_dir.mkdir(exist_ok=True)
     
-    # Get commits (filtered to content/ by default)
-    commits = get_commits(limit=100, content_only=True)
+    # Get commits (filtered to content/ by default), applying any
+    # display-override notes on top of the real commit messages
+    note_overrides = get_note_overrides()
+    commits = get_commits(limit=100, content_only=True, note_overrides=note_overrides)
     
     # Get GitHub repo from config (if available)
     github_repo = ""
@@ -233,6 +291,9 @@ def main():
         json.dump(commits, f, indent=2)
     
     print(f"Generated {len(commits)} commits data at {output_file}")
+    applied_overrides = sum(1 for c in commits if c["full_hash"] in note_overrides)
+    if applied_overrides:
+        print(f"Applied {applied_overrides} display-override note(s) from {NOTES_REF}")
     if len(commits) == 0:
         print("NOTE: No commits found that touch content/ directory.")
         print("To include all commits, edit this script and set content_only=False")
