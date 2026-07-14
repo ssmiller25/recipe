@@ -4,33 +4,33 @@ NOTES_REF := refs/notes/site-display
 help:           ## Show this help.
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
 
-.phony: run
+.PHONY: run
 run: .bin/hugo generate-commits   ## Run site
 	@.bin/hugo serve
 
-.phony: build
+.PHONY: build
 build: .bin/hugo generate-commits   ## Build the site
 	@.bin/hugo
 
-.phony: generate-commits
+.PHONY: generate-commits
 generate-commits:   ## Generate commits data for home page
 	uv run scripts/generate-commits-data.py
 
-.phony: note
+.PHONY: note
 note:   ## Add/edit a display-override note for a commit: make note HASH=<commit-hash>
 	@test -n "$(HASH)" || (echo "Usage: make note HASH=<commit-hash>"; exit 1)
 	@git notes --ref=$(NOTES_REF) edit $(HASH)
 	@echo "Note saved locally. Run 'make notes-push' to publish it."
 
-.phony: notes-push
+.PHONY: notes-push
 notes-push:   ## Publish local display-override notes to origin
 	@git push origin $(NOTES_REF)
 
-.phony: notes-sync
+.PHONY: notes-sync
 notes-sync:   ## Fetch display-override notes from origin
 	@git fetch origin $(NOTES_REF):$(NOTES_REF)
 
-.phony: smoke-check
+.PHONY: smoke-check
 smoke-check: ## Run lightweight repository smoke checks
 	@test -f AGENTS.md
 	@test -f README.md
@@ -40,7 +40,7 @@ smoke-check: ## Run lightweight repository smoke checks
 	@git status -s >/dev/null
 	@echo "recipe smoke checks passed"
 
-.phony: newcontent
+.PHONY: newcontent
 # TODO, actually implement base on parameter?
 # hugo new content recipe/kamala-tuna-melt.md
 # OR
@@ -48,7 +48,7 @@ smoke-check: ## Run lightweight repository smoke checks
 # and can auto-open in codespaces with
 # `code <filename>`
 
-.phony: newsite
+.PHONY: newsite
 newsite: .bin/hugo  ## New hugo site - only used once
 	@.bin/hugo new site . --force --format yaml
 	@find . -maxdepth 1 -type d -not -name '.*' | while read dir; do touch $${dir}/.gitkeep; done
