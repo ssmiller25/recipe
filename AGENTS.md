@@ -46,3 +46,4 @@ Route out when: life/work prioritization decisions → `../AGENTS.md` then `../b
 - Keep markdown clean and copy-edit for scanability.
 - When touching publishing flow, run the smallest relevant verification step first.
 - If uncertain about intent or substitutions in a recipe, preserve user-authored meaning and ask before changing culinary details.
+- Git notes (`refs/notes/site-display`, used to correct a commit's displayed heading/body without rewriting history — see README) are NOT included in a normal `git push`/`fetch`/`clone`. After `make note`, run `make notes-push` to publish it; run `make notes-sync` to pull down notes made elsewhere.
