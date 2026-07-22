@@ -28,9 +28,7 @@ calories:
 - 2 tablespoons coarse black pepper
 - 2 tablespoons smoked paprika
 - 1 teaspoon garlic powder
-- 1 teaspoon onion powder
 - 1 teaspoon ground mustard (optional)
-- 1/4-1/2 teaspoon cayenne or chili powder (for mild heat)
 
 ### Optional Additions
 
@@ -40,7 +38,7 @@ calories:
 
 1. Remove the membrane from the back of the ribs.
 2. Pat ribs dry with paper towels.
-3. Apply a thin layer of binder (BBQ sauce or mustard) to help the rub adhere.
+3. Apply a thin layer of mustard to help the rub adhere.
 4. Mix all dry rub ingredients in a small bowl.
 5. Pack the dry rub generously onto the ribs, covering all surfaces.
 
@@ -53,6 +51,10 @@ calories:
 3. **Finish:** Carefully unwrap ribs. Brush with a very light layer of BBQ sauce or oil for shine.
 4. **Broil or grill:** Broil on high for 3-5 minutes, OR finish on a 350-400°F grill for 10-15 minutes, turning to crisp the exterior.
 5. **Rest:** Let rest 10-15 minutes before slicing and serving.
+
+## Serving Size
+
+90g of meat
 
 ## Notes
 
