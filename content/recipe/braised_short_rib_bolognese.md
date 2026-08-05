@@ -32,6 +32,7 @@ A rich, meat-forward bolognese built around slow-braised short ribs and ground s
   - 1 teaspoon dried thyme
 - **Bolognese**
   - 1 lb ground sirloin
+  - 8 oz cremini mushrooms, finely chopped
   - 1 (28 oz) can San Marzano crushed tomatoes
   - 1 (14.5 oz) can diced fire-roasted tomatoes
   - ½ cup whole milk
@@ -51,7 +52,7 @@ A rich, meat-forward bolognese built around slow-braised short ribs and ground s
 3. Pour in red wine, scraping up any browned bits from the bottom. Simmer until reduced by half, about 3 minutes.
 4. Return short ribs to the pot. Add beef broth, bay leaf, and thyme. Bring to a gentle simmer, then cover and transfer to a 325°F oven. Braise until beef is fork-tender and falling off the bone, 2½ to 3 hours.
 5. Remove short ribs and let cool slightly. Shred meat from bones, discarding bones and any large pieces of fat. Shred into bite-sized pieces and set aside. Skim excess fat from the braising liquid.
-6. In a large, heavy pot or Dutch oven, brown the ground sirloin over medium-high heat, breaking it into small crumbles, about 6 minutes. Drain any excess fat.
+6. In a large, heavy pot or Dutch oven, brown the ground sirloin over medium-high heat, breaking it into small crumbles, about 6 minutes. Add the mushrooms and cook until they release their liquid and begin to brown, about 5 minutes. Drain any excess fat.
 7. Add the braising liquid, crushed tomatoes, and fire-roasted tomatoes to the pot. Stir in the milk and nutmeg. Bring to a gentle simmer and cook uncovered, stirring occasionally, until thickened and rich, about 45 minutes to 1 hour.
 8. Stir in the shredded short rib meat and butter. Season with salt and pepper. Simmer 10 more minutes to meld flavors.
 9. Meanwhile, cook spaghetti in a large pot of well-salted boiling water until al dente. Reserve 1 cup pasta water before draining.
