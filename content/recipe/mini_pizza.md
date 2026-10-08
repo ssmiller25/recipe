@@ -4,7 +4,6 @@ date: 2025-09-21T12:13:27Z
 tags: 
    - lunch
    - dinner
-   - to-try
 layout: recipe
 servings: 4
 prep_time: 10
